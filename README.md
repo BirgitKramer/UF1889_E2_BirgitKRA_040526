@@ -30,4 +30,4 @@ Campos utiles:
 - cuando `res-model = 'res_partner'`, y `res_id`coincide con el id del cliente, esa pertenece a ese cliente.
 
 ### Decision funcional
-Para estas practica se considera "cliente" a los registros del modelo `res.partner`con customer_rank > 0, y `seguimiènto a los registros del modelo `mail.activity`asociados al cliente `res_model = 'res_partner' y res_id=<id del cliente>
+Para estas practica se considera "cliente" a los registros del modelo `res.partner`con customer_rank > 0`, y `seguimiènto a los registros del modelo `mail.activity`asociados al cliente `res_model = 'res_partner' y res_id=<id del cliente>
