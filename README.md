@@ -8,9 +8,9 @@ res.partner
 
 Campos utiles:
 - `name`
-- 'email`
+- `email`
 - `phone`
-- 'is_company`
+- `is_company`
 - `customer_rank`
 
 ### Modelos de seguimientos
