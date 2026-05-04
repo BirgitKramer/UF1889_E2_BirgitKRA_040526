@@ -11,7 +11,7 @@
         "contacts",
     ],
     "data":[
-        "",
+        "view/res_partner_views.xml",
     ],
     "installable":True,
     "application":False,
