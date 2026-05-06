@@ -5,7 +5,7 @@
 
     <record id="view_partner_form.uf1889_e2" model="ir.ui.view">
 
-        <filed name="name">res.partner.form.uf1889_e2</field>
+        <field name="name">res.partner.form.uf1889_e2</field>
 
         <field name="model">res.partner</field>
 
