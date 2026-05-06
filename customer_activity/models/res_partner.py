@@ -1,13 +1,13 @@
 #Importar modulos necesarios
-from odoo import api,field,models
+from odoo import api,fields,models
 
 # Definir la clase que hereda el modelo res.partner
 class ResPartner(models.Model):
     # indica que estamos extendiendo un modelo existente, no creando uno nuevo
-    __inherit = "res.partner"
+    _inherit = "res.partner"
 
     # definir un nuevo campo entero
-    activity_followup_count = field.Integer(
+    activity_followup_count = fields.Integer(
         string="Nº de seguimientos",
         compute="_compute_activity_followup_count",
         store= False,
