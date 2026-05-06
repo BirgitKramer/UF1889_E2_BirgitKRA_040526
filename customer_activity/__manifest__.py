@@ -4,7 +4,7 @@
     "category":"CRM",
     "summary":"analasis de seguimientos comerciales por clientes",
     "author": "Birgit KRA",
-    "license": "LPGL-3",
+    "license": "LGPL-3",
     "depends":[
         "base",
         "mail",
