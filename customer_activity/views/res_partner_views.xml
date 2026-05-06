@@ -3,7 +3,7 @@
 <odoo>
     <!-- Vista formulario cliente -->
 
-    <record id="view_partner_form.uf1889_e2" model="ir.ui.view">
+    <record id="view_partner_form_uf1889_e2" model="ir.ui.view">
 
         <field name="name">res.partner.form.uf1889_e2</field>
 
@@ -29,7 +29,7 @@
 
     <!-- Vista lista (tree) -->
 
-    <record id="view_partner_form.uf1889_e2" model="ir.ui.view">
+    <record id="view_partner_form_uf1889_e2" model="ir.ui.view">
 
         <field name="name">res.partner.list.uf1889_e2</field>
         <field name="model">res.partner</field>
