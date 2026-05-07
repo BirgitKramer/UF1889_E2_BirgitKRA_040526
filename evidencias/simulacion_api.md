@@ -20,12 +20,7 @@ POST  /api/clientes/seguimientos
         "complete_name":"Azure Interior",
         "numero_seguimientos": 0
     },
-    {
-        "id": 10,
-        "complete_name":"Gemini Furniture",
-        "numero_seguimientos": 2
-    }
-]
+    
 ```
 
 
